@@ -1,12 +1,15 @@
 h1 {
   text-align: center;
+  color: darkblue;
 }
 
 h2 {
+  color: blue;
   text-align: center;
 }
 
 body {
+  background-color: aqua;
   font-family: sans-serif;
 }
 
@@ -16,4 +19,6 @@ ul {
 
 p{
   font-style: italic;
+  text-align: center;
+  font-size: x-large;
 }
