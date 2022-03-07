@@ -11,7 +11,7 @@
 
 ## Description
 
-_This webpae de_
+_This webpage links to different vacation resources._
 
 ## Setup/Installation Requirements
 
